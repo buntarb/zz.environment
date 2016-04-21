@@ -1,0 +1,19 @@
+{
+	"name": "zz.environment",
+	"version": "20160421.0.0",
+	"description": "Base environment class for imazzine-developer-lib.",
+	"author": {
+		"name": "Artem Lytvynov",
+		"email": "buntarb@gmail.com"
+	},
+	"license": "Apache-2.0",
+    "homepage": "http://imazzine.com/idl/zz.environment/",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/buntarb/zz.environment.git"
+	},
+	"dependencies": {
+
+	    "imazzine-developer-kit": ""
+	}
+}
