@@ -1,6 +1,6 @@
 {
 	"name": "zz.environment",
-	"version": "20161012.0.0",
+	"version": "20161019.0.0",
 	"description": "Base environment class for imazzine-developer-lib.",
 	"author": {
 		"name": "Artem Lytvynov",
@@ -21,6 +21,7 @@
 
 	    "imazzine-developer-kit": "",
 		"zz.events": "",
-		"zz.services": ""
+		"zz.services": "",
+		"zz.net": ""
 	}
 }
